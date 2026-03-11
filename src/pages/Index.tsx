@@ -22,11 +22,11 @@ const contactSchema = z.object({
 });
 
 const stats = [
-  { value: "18+", label: "Years of Experience" },
-  { value: "15,000+", label: "Graduates" },
-  { value: "500K+", label: "Training Hours" },
-  { value: "50+", label: "Partners" },
-  { value: "200+", label: "Programmes" },
+  { value: "19+", label: "Years of Experience" },
+  { value: "12,400+", label: "Graduates" },
+  { value: "480K+", label: "Training Hours" },
+  { value: "47", label: "Partners" },
+  { value: "186", label: "Programmes" },
   { value: "3", label: "Campuses" },
 ];
 
