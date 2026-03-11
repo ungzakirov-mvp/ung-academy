@@ -3,22 +3,22 @@ import { Quote } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "UNG Academy кардинально изменила наш подход к подготовке инженеров. За 3 года мы снизили простои на 40%.",
-    name: "Алишер Каримов",
-    role: "Директор по операциям, UNG Drilling",
-    year: "Выпуск 2012",
+    quote: "UNG Academy fundamentally transformed our approach to engineer training. In 3 years we reduced downtime by 40%.",
+    name: "Alisher Karimov",
+    role: "Director of Operations, UNG Drilling",
+    year: "Class of 2012",
   },
   {
-    quote: "Программа Leadership Academy подготовила меня к роли руководителя. Обучение у международных экспертов — бесценный опыт.",
-    name: "Нодира Рахимова",
-    role: "Вице-президент по HR",
-    year: "Выпуск 2016",
+    quote: "The Leadership Academy programme prepared me for an executive role. Learning from international experts was an invaluable experience.",
+    name: "Nodira Rakhimova",
+    role: "Vice President of HR",
+    year: "Class of 2016",
   },
   {
-    quote: "Благодаря Digital Academy наша команда внедрила предиктивную аналитику, что сэкономило компании $2M в первый год.",
-    name: "Дмитрий Ли",
-    role: "Руководитель Data Science",
-    year: "Выпуск 2020",
+    quote: "Thanks to Digital Academy, our team implemented predictive analytics, saving the company $2M in the first year.",
+    name: "Dmitry Li",
+    role: "Head of Data Science",
+    year: "Class of 2020",
   },
 ];
 

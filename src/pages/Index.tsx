@@ -182,7 +182,7 @@ const Index = () => {
             ))}
           </div>
           <p className="mt-6 text-muted-foreground max-w-2xl">
-            Наши кампусы в Ташкенте (с 2011) и Бухаре (с 2019) оснащены современным оборудованием. Цифровая платформа поддерживает 15,000+ выпускников по всем локациям.
+            Our campuses in Tashkent (since 2011) and Bukhara (since 2019) are equipped with state-of-the-art facilities. The digital platform supports 15,000+ graduates across all locations.
           </p>
         </FadeUp>
       </Section>
