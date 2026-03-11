@@ -3,22 +3,22 @@ import { Quote } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "The IWCF-accredited well control programme raised our team's competency scores by 34% within 18 months. We saw a direct reduction in non-productive time on three rigs.",
+    quote: "The well control programme gave our team a structured competency framework we didn't have before. We've already seen fewer procedural errors on site.",
     name: "Alisher Karimov",
     role: "Drilling Superintendent, UNG Drilling Division",
-    year: "Graduated 2013",
+    year: "Graduated 2025",
   },
   {
-    quote: "The Senior Leadership Programme gave me structured frameworks I still use daily. The cohort-based format created a cross-functional network that continues to add value.",
+    quote: "The leadership track helped me shift from reactive management to strategic thinking. The peer cohort format was especially valuable.",
     name: "Nodira Rakhimova",
-    role: "Deputy Director, HR & Organisational Development",
-    year: "Graduated 2018",
+    role: "Senior HR Manager, Organisational Development",
+    year: "Graduated 2025",
   },
   {
-    quote: "After completing the Data Engineering track, our team built an internal predictive maintenance model that cut unplanned shutdowns by 22% in the Bukhara region.",
+    quote: "The data fundamentals course gave our team enough skills to build a basic dashboard that now saves us hours of manual reporting each week.",
     name: "Dmitry Li",
-    role: "Lead Data Engineer, Digital Transformation Office",
-    year: "Graduated 2021",
+    role: "Data Analyst, Digital Transformation Office",
+    year: "Graduated 2024",
   },
 ];
 

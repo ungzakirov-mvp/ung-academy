@@ -25,7 +25,7 @@ const PartnerLogos = () => {
         ))}
       </div>
       <p className="text-center text-muted-foreground text-sm mt-8">
-        …and 47 institutional &amp; industry partners across 14 countries since 2005
+        Growing our partner network across Central Asia and beyond
       </p>
     </FadeUp>
   );
