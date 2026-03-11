@@ -1,16 +1,14 @@
 import FadeUp from "@/components/FadeUp";
 
 const partners = [
-  "Imperial College London",
-  "Politecnico di Milano",
-  "Gubkin Russian State University",
   "SPE International",
   "IWCF",
-  "IADC",
+  "Gubkin University",
+  "Coursera for Business",
   "Schlumberger Learning",
   "Baker Hughes Training",
-  "Honeywell Process Solutions",
-  "Coursera for Business",
+  "Tashkent State Technical University",
+  "IADC",
 ];
 
 const PartnerLogos = () => {
@@ -27,7 +25,7 @@ const PartnerLogos = () => {
         ))}
       </div>
       <p className="text-center text-muted-foreground text-sm mt-8">
-        …and 47 institutional &amp; industry partners across 14 countries since 2005
+        Growing our partner network across Central Asia and beyond
       </p>
     </FadeUp>
   );

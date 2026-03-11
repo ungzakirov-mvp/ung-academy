@@ -22,12 +22,12 @@ const contactSchema = z.object({
 });
 
 const stats = [
-  { value: "19+", label: "Years of Experience" },
-  { value: "12,400+", label: "Graduates" },
-  { value: "480K+", label: "Training Hours" },
-  { value: "47", label: "Partners" },
-  { value: "186", label: "Programmes" },
-  { value: "3", label: "Campuses" },
+  { value: "2", label: "Years of Operation" },
+  { value: "340+", label: "Graduates" },
+  { value: "12K+", label: "Training Hours" },
+  { value: "8", label: "Partners" },
+  { value: "14", label: "Programmes" },
+  { value: "1", label: "Campus" },
 ];
 
 const Index = () => {
@@ -114,7 +114,7 @@ const Index = () => {
       </Section>
 
       {/* History Timeline */}
-      <Section eyebrow="Our History" title="A 19-Year Journey" className="bg-cloud" subtitle="Key milestones in UNG Academy's development since its founding in 2005.">
+      <Section eyebrow="Our Journey" title="Two Years of Growth" className="bg-cloud" subtitle="Key milestones since UNG Academy was established in early 2024.">
         <Timeline />
       </Section>
 

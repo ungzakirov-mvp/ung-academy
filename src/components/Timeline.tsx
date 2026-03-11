@@ -1,14 +1,14 @@
 import FadeUp from "@/components/FadeUp";
 
 const milestones = [
-  { year: "2005", title: "Founded", desc: "UNG Group establishes a dedicated training unit to build internal technical capability." },
-  { year: "2008", title: "First IWCF Accreditation", desc: "Well Control training programmes receive IWCF accreditation — a first in Uzbekistan." },
-  { year: "2011", title: "Tashkent Campus Opens", desc: "Purpose-built 4,200 m² training facility with drilling simulators and HSE labs becomes operational." },
-  { year: "2014", title: "2,500 Graduates Milestone", desc: "Cumulative graduate count reaches 2,500 across 38 active programmes." },
-  { year: "2017", title: "Digital Academy Launched", desc: "Online learning platform goes live, extending reach to field-based personnel across 6 regions." },
-  { year: "2019", title: "Bukhara Regional Campus", desc: "Second campus opens to serve southern operations — 1,800 m² facility with 4 classrooms and a simulation hall." },
-  { year: "2022", title: "9 University Partnerships Signed", desc: "MoUs with Imperial College, Politecnico di Milano, Gubkin University and 6 others formalised." },
-  { year: "2024", title: "12,400+ Graduates", desc: "Academy surpasses 12,400 graduates with 186 active programmes and 47 institutional partners." },
+  { year: "2024 Q1", title: "Founded", desc: "UNG Group establishes UNG Academy as a dedicated corporate training unit." },
+  { year: "2024 Q2", title: "First Programmes Launched", desc: "Initial 6 technical and safety programmes rolled out for field personnel." },
+  { year: "2024 Q3", title: "Tashkent Campus Operational", desc: "Training facility equipped with classrooms, HSE lab and a drilling simulator." },
+  { year: "2024 Q4", title: "First Cohort Graduates", desc: "87 specialists complete the inaugural well control and production safety tracks." },
+  { year: "2025 Q1", title: "Digital Platform Live", desc: "Online learning portal launched, enabling blended delivery across regions." },
+  { year: "2025 Q2", title: "IWCF Accreditation", desc: "Well Control programme receives IWCF certification — a first for the group." },
+  { year: "2025 Q3", title: "Partnership Agreements", desc: "MoUs signed with SPE International, Gubkin University and 3 industry partners." },
+  { year: "2026 Q1", title: "340+ Graduates", desc: "Academy reaches 340 graduates across 14 active programmes with 8 partners." },
 ];
 
 const Timeline = () => {
