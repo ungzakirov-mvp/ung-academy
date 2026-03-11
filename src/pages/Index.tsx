@@ -22,11 +22,11 @@ const contactSchema = z.object({
 });
 
 const stats = [
-  { value: "18+", label: "Years of Experience" },
-  { value: "15,000+", label: "Graduates" },
-  { value: "500K+", label: "Training Hours" },
-  { value: "50+", label: "Partners" },
-  { value: "200+", label: "Programmes" },
+  { value: "19+", label: "Years of Experience" },
+  { value: "12,400+", label: "Graduates" },
+  { value: "480K+", label: "Training Hours" },
+  { value: "47", label: "Partners" },
+  { value: "186", label: "Programmes" },
   { value: "3", label: "Campuses" },
 ];
 
@@ -55,14 +55,17 @@ const Index = () => {
             <div className="max-w-3xl">
               <div className="flex items-center gap-3 mb-6">
                 <div className="w-10 h-0.5 bg-gold" />
-                <span className="text-gold text-sm font-semibold uppercase tracking-widest">Corporate University · Since 2005</span>
+                <span className="text-gold text-sm font-semibold uppercase tracking-widest">UNG Group Corporate University</span>
               </div>
               <h1 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">
-                Building Capability.<br />
-                <span className="text-gold">Driving Performance.</span>
+                Centre of Excellence for<br />
+                <span className="text-gold">Energy Talent in Central Asia</span>
               </h1>
               <p className="text-white/70 text-lg md:text-xl mb-8 max-w-2xl">
-                For over 18 years, UNG Academy has been developing world-class talent across technical, digital and leadership domains — shaping the future of energy.
+                UNG Academy is the corporate university of UNG Group, aligning technical, digital and leadership development with the group's long‑term strategy and regional growth ambitions.
+              </p>
+              <p className="text-white/50 text-base mb-8 max-w-2xl">
+                Serving energy professionals across Uzbekistan and Central Asia through standardized curricula, certified learning paths and strategic capability building.
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button asChild className="bg-gold text-dark-blue hover:bg-gold-light font-semibold px-6">
@@ -111,7 +114,7 @@ const Index = () => {
       </Section>
 
       {/* History Timeline */}
-      <Section eyebrow="Our History" title="An 18-Year Journey" className="bg-cloud" subtitle="Key milestones in UNG Academy's development since its founding in 2005.">
+      <Section eyebrow="Our History" title="A 19-Year Journey" className="bg-cloud" subtitle="Key milestones in UNG Academy's development since its founding in 2005.">
         <Timeline />
       </Section>
 

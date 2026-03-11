@@ -3,22 +3,22 @@ import { Quote } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "UNG Academy fundamentally transformed our approach to engineer training. In 3 years we reduced downtime by 40%.",
+    quote: "The IWCF-accredited well control programme raised our team's competency scores by 34% within 18 months. We saw a direct reduction in non-productive time on three rigs.",
     name: "Alisher Karimov",
-    role: "Director of Operations, UNG Drilling",
-    year: "Class of 2012",
+    role: "Drilling Superintendent, UNG Drilling Division",
+    year: "Graduated 2013",
   },
   {
-    quote: "The Leadership Academy programme prepared me for an executive role. Learning from international experts was an invaluable experience.",
+    quote: "The Senior Leadership Programme gave me structured frameworks I still use daily. The cohort-based format created a cross-functional network that continues to add value.",
     name: "Nodira Rakhimova",
-    role: "Vice President of HR",
-    year: "Class of 2016",
+    role: "Deputy Director, HR & Organisational Development",
+    year: "Graduated 2018",
   },
   {
-    quote: "Thanks to Digital Academy, our team implemented predictive analytics, saving the company $2M in the first year.",
+    quote: "After completing the Data Engineering track, our team built an internal predictive maintenance model that cut unplanned shutdowns by 22% in the Bukhara region.",
     name: "Dmitry Li",
-    role: "Head of Data Science",
-    year: "Class of 2020",
+    role: "Lead Data Engineer, Digital Transformation Office",
+    year: "Graduated 2021",
   },
 ];
 

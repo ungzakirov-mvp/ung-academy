@@ -1,14 +1,14 @@
 import FadeUp from "@/components/FadeUp";
 
 const milestones = [
-  { year: "2005", title: "Founded", desc: "Establishment of the corporate training centre under UNG." },
-  { year: "2008", title: "First Accreditation", desc: "International accreditation of training programmes achieved." },
-  { year: "2011", title: "Tashkent Campus Opens", desc: "Launch of a modern training campus with simulation laboratories." },
-  { year: "2014", title: "1,000th Graduate", desc: "One thousandth specialist completed the full training cycle." },
-  { year: "2017", title: "Digital Academy", desc: "Launch of the Digital Academy and online learning platform." },
-  { year: "2019", title: "Bukhara Campus", desc: "Opening of the second training campus." },
-  { year: "2022", title: "Global University Partnerships", desc: "Agreements signed with 12 international universities." },
-  { year: "2024", title: "5,000+ Graduates", desc: "Surpassed the milestone of 5,000 trained specialists." },
+  { year: "2005", title: "Founded", desc: "UNG Group establishes a dedicated training unit to build internal technical capability." },
+  { year: "2008", title: "First IWCF Accreditation", desc: "Well Control training programmes receive IWCF accreditation — a first in Uzbekistan." },
+  { year: "2011", title: "Tashkent Campus Opens", desc: "Purpose-built 4,200 m² training facility with drilling simulators and HSE labs becomes operational." },
+  { year: "2014", title: "2,500 Graduates Milestone", desc: "Cumulative graduate count reaches 2,500 across 38 active programmes." },
+  { year: "2017", title: "Digital Academy Launched", desc: "Online learning platform goes live, extending reach to field-based personnel across 6 regions." },
+  { year: "2019", title: "Bukhara Regional Campus", desc: "Second campus opens to serve southern operations — 1,800 m² facility with 4 classrooms and a simulation hall." },
+  { year: "2022", title: "9 University Partnerships Signed", desc: "MoUs with Imperial College, Politecnico di Milano, Gubkin University and 6 others formalised." },
+  { year: "2024", title: "12,400+ Graduates", desc: "Academy surpasses 12,400 graduates with 186 active programmes and 47 institutional partners." },
 ];
 
 const Timeline = () => {
