@@ -143,7 +143,7 @@ const Index = () => {
       </Section>
 
       {/* Testimonials */}
-      <Section eyebrow="Отзывы" title="Голоса наших выпускников" dark subtitle="Реальные истории людей, чья карьера изменилась благодаря UNG Academy.">
+      <Section eyebrow="Testimonials" title="Voices of Our Alumni" dark subtitle="Real stories from people whose careers were transformed by UNG Academy.">
         <Testimonials />
       </Section>
 
