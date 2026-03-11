@@ -111,7 +111,7 @@ const Index = () => {
       </Section>
 
       {/* History Timeline */}
-      <Section eyebrow="Наша история" title="Путь длиной в 18 лет" className="bg-cloud" subtitle="Ключевые вехи развития UNG Academy с момента основания в 2005 году.">
+      <Section eyebrow="Our History" title="An 18-Year Journey" className="bg-cloud" subtitle="Key milestones in UNG Academy's development since its founding in 2005.">
         <Timeline />
       </Section>
 
