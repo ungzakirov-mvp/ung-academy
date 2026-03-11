@@ -22,12 +22,12 @@ const contactSchema = z.object({
 });
 
 const stats = [
-  { value: "19+", label: "Years of Experience" },
-  { value: "12,400+", label: "Graduates" },
-  { value: "480K+", label: "Training Hours" },
-  { value: "47", label: "Partners" },
-  { value: "186", label: "Programmes" },
-  { value: "3", label: "Campuses" },
+  { value: "2", label: "Years of Operation" },
+  { value: "340+", label: "Graduates" },
+  { value: "12K+", label: "Training Hours" },
+  { value: "8", label: "Partners" },
+  { value: "14", label: "Programmes" },
+  { value: "1", label: "Campus" },
 ];
 
 const Index = () => {
