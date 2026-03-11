@@ -62,7 +62,7 @@ const Index = () => {
                 <span className="text-gold">Driving Performance.</span>
               </h1>
               <p className="text-white/70 text-lg md:text-xl mb-8 max-w-2xl">
-                Уже более 18 лет UNG Academy развивает таланты мирового класса в технических, цифровых и лидерских направлениях — формируя будущее энергетики.
+                For over 18 years, UNG Academy has been developing world-class talent across technical, digital and leadership domains — shaping the future of energy.
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button asChild className="bg-gold text-dark-blue hover:bg-gold-light font-semibold px-6">
