@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
+import ungLogo from "@/assets/ung-logo.png";
 
 const navLinks = [
   { label: "Home", to: "/" },
