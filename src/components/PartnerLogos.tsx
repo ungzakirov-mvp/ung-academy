@@ -2,15 +2,15 @@ import FadeUp from "@/components/FadeUp";
 
 const partners = [
   "Imperial College London",
-  "MIT Energy Initiative",
+  "Politecnico di Milano",
+  "Gubkin Russian State University",
   "SPE International",
+  "IWCF",
   "IADC",
-  "Schlumberger",
-  "Baker Hughes",
-  "Halliburton",
+  "Schlumberger Learning",
+  "Baker Hughes Training",
+  "Honeywell Process Solutions",
   "Coursera for Business",
-  "INSEAD",
-  "Harvard Business School Online",
 ];
 
 const PartnerLogos = () => {
