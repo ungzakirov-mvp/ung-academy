@@ -167,7 +167,7 @@ const Index = () => {
       </Section>
 
       {/* Partner Logos */}
-      <Section eyebrow="Нам доверяют" title="Партнёры и аккредитации" subtitle="Сотрудничество с ведущими мировыми институтами и компаниями.">
+      <Section eyebrow="Trusted By" title="Partners & Accreditations" subtitle="Collaborating with leading global institutions and companies.">
         <PartnerLogos />
       </Section>
 
