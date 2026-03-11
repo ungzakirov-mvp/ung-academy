@@ -1,14 +1,14 @@
 import FadeUp from "@/components/FadeUp";
 
 const milestones = [
-  { year: "2005", title: "Основание", desc: "Создание корпоративного учебного центра при UNG." },
-  { year: "2008", title: "Первая аккредитация", desc: "Получение международной аккредитации учебных программ." },
-  { year: "2011", title: "Открытие кампуса в Ташкенте", desc: "Запуск современного учебного кампуса с симуляционными лабораториями." },
-  { year: "2014", title: "1,000-й выпускник", desc: "Тысячный специалист прошёл полный цикл обучения." },
-  { year: "2017", title: "Цифровая академия", desc: "Запуск Digital Academy и платформы онлайн-обучения." },
-  { year: "2019", title: "Кампус в Бухаре", desc: "Открытие второго учебного кампуса." },
-  { year: "2022", title: "Партнёрство с мировыми вузами", desc: "Соглашения с 12 международными университетами." },
-  { year: "2024", title: "5,000+ выпускников", desc: "Преодолён рубеж в 5,000 обученных специалистов." },
+  { year: "2005", title: "Founded", desc: "Establishment of the corporate training centre under UNG." },
+  { year: "2008", title: "First Accreditation", desc: "International accreditation of training programmes achieved." },
+  { year: "2011", title: "Tashkent Campus Opens", desc: "Launch of a modern training campus with simulation laboratories." },
+  { year: "2014", title: "1,000th Graduate", desc: "One thousandth specialist completed the full training cycle." },
+  { year: "2017", title: "Digital Academy", desc: "Launch of the Digital Academy and online learning platform." },
+  { year: "2019", title: "Bukhara Campus", desc: "Opening of the second training campus." },
+  { year: "2022", title: "Global University Partnerships", desc: "Agreements signed with 12 international universities." },
+  { year: "2024", title: "5,000+ Graduates", desc: "Surpassed the milestone of 5,000 trained specialists." },
 ];
 
 const Timeline = () => {

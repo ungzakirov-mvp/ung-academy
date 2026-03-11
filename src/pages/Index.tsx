@@ -22,12 +22,12 @@ const contactSchema = z.object({
 });
 
 const stats = [
-  { value: "18+", label: "Лет опыта" },
-  { value: "15,000+", label: "Выпускников" },
-  { value: "500K+", label: "Часов обучения" },
-  { value: "50+", label: "Партнёров" },
-  { value: "200+", label: "Программ" },
-  { value: "3", label: "Кампуса" },
+  { value: "18+", label: "Years of Experience" },
+  { value: "15,000+", label: "Graduates" },
+  { value: "500K+", label: "Training Hours" },
+  { value: "50+", label: "Partners" },
+  { value: "200+", label: "Programmes" },
+  { value: "3", label: "Campuses" },
 ];
 
 const Index = () => {
@@ -62,7 +62,7 @@ const Index = () => {
                 <span className="text-gold">Driving Performance.</span>
               </h1>
               <p className="text-white/70 text-lg md:text-xl mb-8 max-w-2xl">
-                Уже более 18 лет UNG Academy развивает таланты мирового класса в технических, цифровых и лидерских направлениях — формируя будущее энергетики.
+                For over 18 years, UNG Academy has been developing world-class talent across technical, digital and leadership domains — shaping the future of energy.
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button asChild className="bg-gold text-dark-blue hover:bg-gold-light font-semibold px-6">
@@ -111,7 +111,7 @@ const Index = () => {
       </Section>
 
       {/* History Timeline */}
-      <Section eyebrow="Наша история" title="Путь длиной в 18 лет" className="bg-cloud" subtitle="Ключевые вехи развития UNG Academy с момента основания в 2005 году.">
+      <Section eyebrow="Our History" title="An 18-Year Journey" className="bg-cloud" subtitle="Key milestones in UNG Academy's development since its founding in 2005.">
         <Timeline />
       </Section>
 
@@ -143,7 +143,7 @@ const Index = () => {
       </Section>
 
       {/* Testimonials */}
-      <Section eyebrow="Отзывы" title="Голоса наших выпускников" dark subtitle="Реальные истории людей, чья карьера изменилась благодаря UNG Academy.">
+      <Section eyebrow="Testimonials" title="Voices of Our Alumni" dark subtitle="Real stories from people whose careers were transformed by UNG Academy.">
         <Testimonials />
       </Section>
 
@@ -167,7 +167,7 @@ const Index = () => {
       </Section>
 
       {/* Partner Logos */}
-      <Section eyebrow="Нам доверяют" title="Партнёры и аккредитации" subtitle="Сотрудничество с ведущими мировыми институтами и компаниями.">
+      <Section eyebrow="Trusted By" title="Partners & Accreditations" subtitle="Collaborating with leading global institutions and companies.">
         <PartnerLogos />
       </Section>
 
@@ -182,7 +182,7 @@ const Index = () => {
             ))}
           </div>
           <p className="mt-6 text-muted-foreground max-w-2xl">
-            Наши кампусы в Ташкенте (с 2011) и Бухаре (с 2019) оснащены современным оборудованием. Цифровая платформа поддерживает 15,000+ выпускников по всем локациям.
+            Our campuses in Tashkent (since 2011) and Bukhara (since 2019) are equipped with state-of-the-art facilities. The digital platform supports 15,000+ graduates across all locations.
           </p>
         </FadeUp>
       </Section>
